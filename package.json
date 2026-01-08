@@ -1,0 +1,16 @@
+{
+  "name": "chai-backened",
+  "version": "1.0.0",
+  "description": "backened at - youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backened",
+    "chai"
+  ],
+  "author": "deepesh gupta",
+  "license": "ISC"
+}
